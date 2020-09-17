@@ -6,3 +6,5 @@ It first finds the raters with ratings of movies similar to your ratings in orde
 Also, it is made in the most efficient way possible using the most efficient possible data structures and algorithms for certain tasks.
 
 The program is being hosted on a third-party website of an Educational Institute from where this guided project idea was taken. I had to just upload the jar file of my Java Project. The front end was already configured on the link so that the students can host their projects directly with their unique links for each of their projects.
+
+Project Link :https://www.dukelearntoprogram.com//capstone/recommender.php?id=ivgTOShNEW0Lc5
